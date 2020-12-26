@@ -2,7 +2,11 @@
 Implementation of Builder Pattern
 
 Q. Create a class called ‘Cake’ which would contain the quantity of ingredients required to make it.
+
+
 Below are the ingredients : -
+
+
 private final double sugar;   
 private final double butter;  
 private final int eggs;
